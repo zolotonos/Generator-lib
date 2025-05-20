@@ -1,0 +1,8 @@
+{
+  "name": "generator-lib",
+  "version": "1.0.0",
+  "description": "Generator library with random values and timeout-based iteration",
+  "main": "index.js",
+  "author": "Zolotonos",
+  "license": "MIT"
+}
