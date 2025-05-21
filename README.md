@@ -4,8 +4,8 @@ A JavaScript library for generating values using generators.
 
 ## Features
 
-- 🎲 Random Number Generator (int or float)
-- ⏱ Consume any iterator with timeout-based processing
+- Random Number Generator (float)
+- Consume any iterator with timeout-based processing
 
 ## Usage
 
@@ -13,6 +13,7 @@ Install locally:
 
 ```bash
 npm install ../generator-lib
+
 
 const { randomNumberGenerator, consumeWithTimeout } = require("generator-lib");
 
